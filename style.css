@@ -1,0 +1,42 @@
+.red-color{
+  color: #FF0000;
+   }
+body{
+    font-family: sans-serif;
+    color: #FF0000;
+    line-height: 25px ;
+    }
+.half-width{
+     width: 50%;
+     float: left; 
+     }
+.side-img{
+     width: 50%;
+     padding-left: 25%;
+     }
+.primary-btn{
+     color: red;
+     background-color: green;
+     padding: 13px 42px 13px 42px;
+     border-radius: 20px;
+     text-decoration: none;
+     }
+h1 {
+     font-size: 2em
+   }
+. container {
+     padding-left: 5%;
+     display: inline-block;
+     }
+.experiences{
+     padding: 30px;
+     margin: 30px;
+     border-color: rbg(238,251,255);
+     border-radius: 20px;
+     }
+.experience-item{
+     padding: 10px;
+     border-left: 1px solid rgba(137,130,237,.2)
+     }
+     
+     

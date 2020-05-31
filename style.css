@@ -1,9 +1,9 @@
-.red-color{
-  color: #FF0000;
+.purple-color{
+  color: purple;
    }
 body{
     font-family: sans-serif;
-    color: #FF0000;
+    color: steelblue;
     line-height: 25px ;
     }
 .half-width{
@@ -16,7 +16,7 @@ body{
      }
 .primary-btn{
      color: red;
-     background-color: green;
+     background-color: yellow;
      padding: 13px 42px 13px 42px;
      border-radius: 20px;
      text-decoration: none;
